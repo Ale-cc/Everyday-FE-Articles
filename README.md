@@ -761,6 +761,85 @@ https://mp.weixin.qq.com/s/FEg9eZqDcHFo-tUmLr2xxg
 10. 如何停止使用 console.log() 并开始使用浏览器调试代码https://juejin.im/post/5bd7cde4f265da0a96251de3
 
 
+## 十一月份
+
+<br />
+11月1日 每日资讯<br />
+
+8. 别再让你的web页面在用户浏览器端裸奔 http://www.aliued.com/?p=4162
+
+11. 如何利用 CDN 进一步的前后端分离 https://www.chenshaowen.com/blog/how-to-use-cdn-to-separate-frontend-and-backend-more.html
+
+13. 记一次基于react、cra2、typescript的pwa项目由开发到部署.  
+
+1. https://juejin.im/post/5ba3d205e51d450e8477af33 
+2. https://juejin.im/post/5bd723c351882528d66cecd6                         
+3. https://juejin.im/post/5bd827716fb9a05d212ee743
+
+
+<br /><br />
+11月2日 每日资讯<br />
+
+13. 前端异常监控解决方案研究 https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/
+
+15. 一些使 JavaScript 更加简洁的小技巧 http://www.css88.com/archives/9868
+
+4. 关于前端组件化、状态管理规范化的思考 https://juejin.im/post/5bd9ab2b6fb9a0222458be02
+
+6. 如何设计高扩展的在线网页制作平台 https://juejin.im/post/5bd83daee51d4524b50d23b5
+
+11. React Hooks: Changing the Mindset http://krasimirtsonev.com/blog/article/react-hooks-changing-the-mindset
+
+
+<br /><br />
+11月5日 每日资讯<br />
+
+5. 数据可视化：浅谈热力图如何在前端实现https://juejin.im/post/5bdc2323518825170e4a8cf8
+
+9. 浅谈mock https://juejin.im/post/5bd82d796fb9a05d25682a66
+
+10. 用上帝视角来看待组件的设计模式https://juejin.im/post/5bd91f61e51d4568630478a6
+
+
+<br /><br />
+11月1日 每日资讯<br />
+
+2. Next.js踩坑入门系列https://juejin.im/user/5a1e40e3518825619a0270b3/posts
+
+7. 解决canvas合成图片大小错误、模糊以及跨域的问题https://juejin.im/post/5bddac7d6fb9a049ee7fe452
+
+9. 配置Vue服务器端渲染SSR 
+1. https://juejin.im/post/5bd72cd4f265da0a857ac326  
+2. https://juejin.im/post/5bdf0c7ce51d454b89324b1c
+
+10.  Google 工程师提升网页性能的新策略：空闲执行，紧急优先 
+https://juejin.im/post/5bdec712e51d4505525b0fba
+
+
+11. 浏览器拦截打开新窗口情况总结https://juejin.im/post/5bdee507e51d4567953e6cdd
+
+<br /><br />
+11月7日 每日资讯<br />
+
+4.  最详细的 CSS 字符转义处理 https://juejin.im/post/5be01e166fb9a049e4122692
+
+7. 如何修改placeholder样式 http://spaceblog.cn/post/placeholder
+
+10. 理解设计模式 https://juejin.im/post/5bd57c32e51d456c430e3660
+
+13. 你所不知道的 CSS 阴影技巧与细节 https://juejin.im/post/5be1023951882516fd36a38e
+
+<br /><br />
+11月8日 每日资讯<br />
+12. 前端错误收集以及统一异常处理
+https://juejin.im/post/5be2b0f6e51d4523161b92f0
+
+14. JavaScript 开发者 10 种必备 VS Code 扩展
+https://www.css88.com/archives/10004
+
+
+
+#### 未完待续
 
 
 
