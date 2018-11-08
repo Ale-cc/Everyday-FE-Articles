@@ -202,6 +202,35 @@ https://github.com/anywhichway/scriptswitch
 2.  鸽子传信解释 HTTPS https://blog.hhking.cn/2018/08/25/https-explained-with-carrier-pigeons/
 
 <br /><br />
+8月28日 每日资讯
+1. React v16.3 之后的组件生命周期函数: https://zhuanlan.zhihu.com/p/38030418 
+React v16.3 起，React 组件生命周期函数发生了巨大变化……
+
+2. 三角函数在前端动画中的应用: https://w3ctrain.com/2018/08/20/trigonometry-you-must-know/
+如何使用三角函数让动画更顺滑。
+
+3. CSS 混合模式高级应用: https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html
+这篇文章并不是对 CSS 的混合模式做相应的科普，而是通过几个示例，向大家展示了 CSS 混合模式的强大之处，以及可使用的场景。
+
+4. 实战 CSS Scroll Snapping: https://www.w3cplus.com/css/practical-css-scroll-snapping.html
+CSS Scroll Snap（CSS 滚动捕捉）允许你在用户完成滚动后多锁定特定的元素或位置。Google 69+、Firefox、Edge 和 Safari 都支持它的某些版本。
+
+5. JavaScript 的元系统: https://blog.csdn.net/aimingoo/article/details/82014291
+本文是对在第四届 FEDay 中分享的《无类继承：JavaScript面向对象的根基》的进一步讨论。
+
+6. 前端插拔式 SPA 应用架构实现方案: https://www.yuque.com/es2049/blog/pgn8n8
+关于架构的一些思考。
+
+7. 快应用入门小结篇: http://blog.poetries.top/2018/08/21/quick-app-summary
+快应用入门 step by step。
+
+8. 滚动视差？CSS 不在话下: http://www.cnblogs.com/coco1s/p/9453938.html
+主要介绍 Parallax Scrolling 的几种实现方式。
+
+9. 聊聊 Web 中的度数单位: https://www.w3cplus.com/css/understanding-degrees-on-the-web.html
+主要介绍了 CSS 中的角度单位，及其常见的出现场景。
+<br /><br />
+
 8月29日 每日资讯
 
 9. 让 Markdown 中的代码可以实时运行 https://juejin.im/post/5b85120751882542b366c8b1
@@ -314,8 +343,10 @@ https://www.evolving-science.com/space/water-ice-moon-00762
 9. 深入探究ES6之模块系统 https://juejin.im/post/5b88fb92f265da437047f8ac
 
 12. 通过proxies设置常量 https://www.zcfy.cc/article/setting-up-constants-via-proxies
+
 <br /><br />
 9月7日 每日资讯<br />
+
 1.   Puck.js: Javascript + Bluetooth === Awesome
 
 5. 《从零构建前后分离的web项目》：前端了解过关了吗？ https://juejin.im/post/5b8e5b33e51d4538ab0461f8
@@ -558,7 +589,176 @@ The Best Explanation of JavaScript Reactivity https://medium.com/vue-mastery/the
 
 阿里node地下铁分享沙龙（深圳站）https://mp.weixin.qq.com/s/QP7FEt2HbqcDblH3vZc0Kw  活动地点：深圳阿里中心
 
+<br/><br /><br />
+## 十月份
+<br /><br />
+10月8日 每日资讯<br />
 
+3. 大话 JavaScript 动画https://juejin.im/post/5bb64f35f265da0abf7cfc1a
+
+4.你所不知道的css滤镜技巧http://web.jobbole.com/92460/     
+
+5.使用小程序做交互的技巧 https://mp.weixin.qq.com/s/wukb02PaZfRXzhqHzfGMBQ
+
+<br /><br />
+10月9日 每日资讯<br />
+
+3. MathJax: 让前端支持数学公式https://godbmw.com/passage/61
+
+10. 从支付宝tabbar看BEM https://juejin.im/post/5bb4678a5188255c980be9d2
+
+11.地图坐标转换 https://mp.weixin.qq.com/s/IWDSQHYxR41kMYtKfKGinQ
+
+<br /><br />
+10月10日 每日资讯<br />
+
+3. 优秀前端必知的话题：我们应该做些力所能及的优化https://juejin.im/post/5bbc1b0c6fb9a05cf230140c
+
+8. Unhappy Path Driven Development https://ponyfoo.com/articles/unhappy-path-driven-developmen
+
+9.淘宝秒杀系统是如何设计的 https://mp.weixin.qq.com/s/CRckPkN27FhFExjg3_aclA  
+
+10. Airbnb react性能优化https://mp.weixin.qq.com/s/OMvNKq1P5cDCzzqpmGpOjw
+
+
+<br /><br />
+10月11日 每日资讯<br />
+
+5. Nginx，Charles与Webpack配置前端API代理教程https://juejin.im/post/5bb0e6b55188255c6e707237
+
+6. JavaScript Visualizer https://javascriptvisualizer.com/
+
+7. 从零开始用 electron 手撸一个截屏工具https://juejin.im/post/5bbac5cee51d450e7042ad2c
+
+9. 五个小技巧让你写出更好的 JavaScript 条件语句 https://scotch.io/tutorials/5-tips-to-write-better-conditionals-in-javascript
+
+13. Shader 中的随机与噪声 https://juejin.im/post/5ba88a8a6fb9a05cda776697
+
+<br /><br />
+10月12日 每日资讯<br />
+
+7. 从设计师和开发的角度使用 lottie https://juejin.im/post/5bbdc118f265da0ae8013558
+
+8. 网站重构-后台服务篇 https://jooger.me/article/5bbe2f1d927f7c0028ff7049
+
+9. Nginx 升级 HTTP / 2 指引https://www.jackpu.com/nginx-sheng-ji-http-2-zhi-yin/
+
+10. 有趣的border-radius https://juejin.im/post/5bb815056fb9a05d171d5660
+
+11. 做一个跑通前后端的豆瓣租房移动端webApp https://juejin.im/post/5bb87626e51d450e6d011433
+
+<br /><br />
+10月15日 每日资讯<br />
+1.  现代浏览器内部揭秘 
+https://github.com/xitu/gold-miner/blob/master/TODO1/inside-browser-part1.md 
+https://github.com/xitu/gold-miner/blob/master/TODO1/inside-browser-part2.md 
+https://github.com/xitu/gold-miner/blob/master/TODO1/inside-browser-part3.md  
+
+8. Koa2 洋葱模型 —— compose 串联中间件的四种实现https://www.pandashen.com/2018/09/06/20180906170854/
+
+
+<br /><br />
+10月16日 每日资讯<br />
+4. 精准操控的滚动体验，浅谈新标准 Scroll Snap https://mp.weixin.qq.com/s/0Duum2IKSpc5fPNXPAPf6Q
+
+8. React.js 一次动画性能的简单优化 https://juejin.im/post/5bc3f605e51d450e6749a7bc
+
+9. 【webpack进阶】你真的掌握了loader么？- loader十问 https://juejin.im/post/5bc1a73df265da0a8d36b74f
+
+10. VSCode插件开发全攻略系列：https://www.cnblogs.com/liuxianan/p/vscode-plugin-overview.html
+
+
+<br /><br />
+10月19日 每日资讯<br />
+
+2. 使用 JavaScript 网络信息 API 实现自适应服务 
+https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p  
+译文 https://github.com/xitu/gold-miner/blob/master/TODO1/adaptive-serving-using-javascript-and-the-network-information-api.md
+
+7. Web 动效四大才子简述 https://juejin.im/post/5bc58bd9e51d450e721108a4   
+
+8.CSS改变图片颜色的各种方式 https://mp.weixin.qq.com/s/_8vpfui02sW7DFG-1TXnsw
+
+<br /><br />
+10月22日 每日资讯<br />
+
+1.数据劫持or数据代理https://mp.weixin.qq.com/s/SPoxin9LYJ4Bp0goliEaUw
+
+12.  以面试官的角度来看 React 工作面试 https://juejin.im/post/5bca74cfe51d450e9163351b
+
+15. JavaScript原型与原型链https://juejin.im/post/5bc755b15188255c89015f39
+
+<br /><br />
+10月23日 每日资讯<br />
+
+4. HTML高亮关键字真麻烦https://juejin.im/post/5bca903e5188250cf316b61a
+
+9. Cocos Creator 入门篇-描摹小游戏（描摹数字，描摹英语字母）https://juejin.im/post/5bc94d686fb9a05cd8495959
+
+13. JS背后的秘密(上) --- Compling of JavaScript https://mp.weixin.qq.com/s/Uvj99Oopg46NxOiCH4E1HA
+
+14. 有人考了我一道CSS题目
+https://www.zhangxinxu.com/wordpress/2018/10/a-css-%E9%A2%98%E7%9B%AE/
+
+<br /><br />
+10月24日 每日资讯<br />
+每日资讯1. 你不知道的Node https://houxingyi.github.io/2018/10/20/2018-10-10-you-dont-know-Node/
+
+
+5. Vue 进阶系列之响应式原理及实现https://juejin.im/post/5bce6a26e51d4579e9711f1d
+
+13. 对inline-block的再次认知https://www.jianshu.com/p/89c8ae25a822
+
+
+<br /><br />
+10月25日 每日资讯<br />
+
+3. Node 案发现场揭秘 —— 如何利用 GC 日志不修改代码调优应用性能https://zhuanlan.zhihu.com/p/47425089
+
+9. multiple web workers的实现http://zhuanlan.zhihu.com/p/41431253
+
+13. 如何回滚一次错误的合并？http://zhuanlan.zhihu.com/p/40220954
+
+<br /><br />
+10月26日 每日资讯<br />
+
+6. 如何提高代码品味 https://www.jianshu.com/p/b5d7e01c3163
+
+11. 《从零构建前后分离的web项目》实战 - 欲善其事必先利其器 继续打磨前端架构 https://juejin.im/post/5bcf69105188255c69784280
+
+15. 你了解SEO中的时效性吗？https://juejin.im/post/5bcf4ec1e51d4578f055d2a7
+
+16. 好文推荐 图解浏览器工作原理 https://zhuanlan.zhihu.com/p/47407398
+
+<br /><br />
+10月29日 每日资讯<br />
+1. 克军：如何成为一位优秀的前端工程师？
+https://mp.weixin.qq.com/s/FEg9eZqDcHFo-tUmLr2xxg
+
+4. 抓取网页生成 PDF http://jartto.wang/2018/10/13/nodejs-pdf/
+
+12. 浅析前端状态管理https://juejin.im/post/5bd3262af265da0aa665085b 
+
+13.活动页生成器 https://juejin.im/post/5bd2f19051882526d14975d2
+
+<br /><br />
+10月30日 每日资讯<br />
+
+5. 国际化 - 通用 LTR/RTL 布局解决方案 https://zhuanlan.zhihu.com/p/47864242
+
+7. 通过 Lighthouse 了解 JavaScript 性能 https://juejin.im/post/5bd5cfcbe51d456d4453572e
+
+9. 聊聊阿里云 OSS 的转义设计问题 https://www.codesky.me/archives/oss-design-problem.wind
+
+
+<br /><br />
+10月31日 每日资讯<br />
+
+5. 打码指南：由猫眼线下扫码1分购谈起 https://juejin.im/post/5bd70be36fb9a05d2d026dd4
+
+9. 初探SEO关键词竞争程度的智能算法思路http://dopro.io/seo-intelligent-algorithm.html
+
+10. 如何停止使用 console.log() 并开始使用浏览器调试代码https://juejin.im/post/5bd7cde4f265da0a96251de3
 
 
 
