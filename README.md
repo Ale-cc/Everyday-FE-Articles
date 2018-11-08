@@ -3,7 +3,7 @@
 
 /* 注：序号不准确 */
 
-
+## 八月份
 
 8月7日 星期二，农历六月廿六 
 
@@ -66,7 +66,7 @@ https://github.com/anywhichway/scriptswitch
 
 13. 一点感悟：当走完所有大厂的实习面试后 https://juejin.im/post/5b68f384f265da0fa00a3df0
 
-14浅析图片懒加载https://juejin.im/entry/5b6ee4cbe51d451988565f80
+14. 浅析图片懒加载https://juejin.im/entry/5b6ee4cbe51d451988565f80
 <br /><br />
 
 
@@ -80,9 +80,9 @@ https://github.com/anywhichway/scriptswitch
 
 14. 微前端的设计理念与实践初探 https://juejin.im/post/5b70514251882560f75dcc16    
 
-15.美团扫码付的前端可用性保障实践 https://juejin.im/post/5b6d532ee51d4517df154d39 
+15. 美团扫码付的前端可用性保障实践 https://juejin.im/post/5b6d532ee51d4517df154d39 
 
-javaScript 微任务 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules
+11. javaScript 微任务 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules
 
 10. 狙杀页面卡顿 —— Performance 指北 http://pobusama.github.io/2018/07/27/performance-dev-tool/
 
@@ -90,34 +90,34 @@ javaScript 微任务 https://jakearchibald.com/2015/tasks-microtasks-queues-and-
 
 8月15日  每日技术咨询
 
-1.关于CSS变量你需要知道的一切 https://www.zcfy.cc/article/everything-you-need-to-know-about-css-variables
+1. 关于CSS变量你需要知道的一切 https://www.zcfy.cc/article/everything-you-need-to-know-about-css-variables
 
-2.WebWorker与WebSocket实现前端消息总线 https://juejin.im/post/5b6d386ff265da0f9b4e1442
+2. WebWorker与WebSocket实现前端消息总线 https://juejin.im/post/5b6d386ff265da0f9b4e1442
 
-3.Convert Amazon Links In A Hugo Site To Affiliate Links With Gulp https://www.thepolyglotdeveloper.com/2018/08/convert-amazon-links-hugo-site-affiliate-links-gulp/
+3. Convert Amazon Links In A Hugo Site To Affiliate Links With Gulp https://www.thepolyglotdeveloper.com/2018/08/convert-amazon-links-hugo-site-affiliate-links-gulp/
 
-4.初识 Chrome Extension https://zhuanlan.zhihu.com/p/41933841
+4. 初识 Chrome Extension https://zhuanlan.zhihu.com/p/41933841
 
-5.webpack4 系列教材 https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/
+5. webpack4 系列教材 https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/
 
-6.前端重构范式之 float layout  https://scala.cool/2018/08/febible-float-layout/
+6. 前端重构范式之 float layout  https://scala.cool/2018/08/febible-float-layout/
 
 <br /><br />
 
 
 8月16日 每日资讯
 
-浅谈Vue-router的部分高级用法 https://juejin.im/post/5b73a50df265da27f7590737
+ 浅谈Vue-router的部分高级用法 https://juejin.im/post/5b73a50df265da27f7590737
 
-Embedded Builtins https://v8project.blogspot.com/2018/08/embedded-builtins.html
+ Embedded Builtins https://v8project.blogspot.com/2018/08/embedded-builtins.html
 
-WEB安全 - 认识与防御XSS攻击 https://www.cnblogs.com/HCJJ/p/9468871.html
+ WEB安全 - 认识与防御XSS攻击 https://www.cnblogs.com/HCJJ/p/9468871.html
 
-一个视频首屏的优化过程 https://juejin.im/post/5b68288df265da0fa21aa6bf
+ 一个视频首屏的优化过程 https://juejin.im/post/5b68288df265da0fa21aa6bf
 
-浅谈Http缓存机制 http://www.cnblogs.com/vajoy/p/5341664.html
+ 浅谈Http缓存机制 http://www.cnblogs.com/vajoy/p/5341664.html
 
-How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/
+ How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/
 <br /><br />
 
 8月17日  每日资讯
@@ -146,7 +146,7 @@ How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/ho
 
 12. 移动端上传图片进行平移放大缩小操作后生成海报
 
-13.  2018 来谈谈 Web Component  https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/
+13. 2018 来谈谈 Web Component  https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/
 
 14. 基于 HTML5 的 WebGL 自定义 3D 摄像头监控模型 https://www.cnblogs.com/xhload3d/p/9466110.html
 
@@ -166,7 +166,7 @@ How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/ho
 11. 代码跑不快？跑个分就知道了 https://mp.weixin.qq.com/s/-uB2cC9Anroul4y0NI3QxA
 
 <br /><br />
- 8月22日 每日资讯
+8月22日 每日资讯
  
 4. 通过HTTP的HEADER完成各种骚操作https://juejin.im/post/5b7919345188254312414b9c 
 
@@ -174,16 +174,16 @@ How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/ho
 
 10. 【译】 开始在web中使用JS Modules https://www.musicfe.cn/page/16
 
-11.  【推荐】QUIC协议分析https://mp.weixin.qq.com/s/a6oDkjiIJqVEMpuCzt7Mtw
+11. 【推荐】QUIC协议分析https://mp.weixin.qq.com/s/a6oDkjiIJqVEMpuCzt7Mtw
 
-12 Quantum初探 https://juejin.im/post/5b7a40866fb9a01a112dd1f3
+12.  Quantum初探 https://juejin.im/post/5b7a40866fb9a01a112dd1f3
 
 <br /><br />
 8月23日 每日资讯
 
-3.  一行 JavaScript 代码竟然让 FT.com 网站慢了十倍 https://juejin.im/post/5b7bb6dfe51d4538bf55aa5f
+3. 一行 JavaScript 代码竟然让 FT.com 网站慢了十倍 https://juejin.im/post/5b7bb6dfe51d4538bf55aa5f
 
-6.   Convert Data Between CSV And JSON With Simple JavaScript https://www.thepolyglotdeveloper.com/2018/08/convert-data-between-csv-json-simple-javascript/
+6. Convert Data Between CSV And JSON With Simple JavaScript https://www.thepolyglotdeveloper.com/2018/08/convert-data-between-csv-json-simple-javascript/
 
 7. 【译】如何用 Node.Js 和 Puppeteer 爬取网页 https://juejin.im/post/5b7a8e796fb9a01a0717b2b9 原文https://coding.napolux.com/how-to-scrap-web-page-nodejs-puppeteer/
 
@@ -200,6 +200,7 @@ How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/ho
 4. 用实例告诉你如何重构带有坏味道的代码 https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489406&idx=1&sn=4c5335f5a37bc824070f0d5fb65f6943&chksm=f951a23dce262b2b9162cd194daf0e55f31e6128717ecd232a66d5d9d1f60b9e1e0a4c5bffb4&token=1247164838&lang=zh_CN#rd 
 
 2.  鸽子传信解释 HTTPS https://blog.hhking.cn/2018/08/25/https-explained-with-carrier-pigeons/
+
 <br /><br />
 8月29日 每日资讯
 
@@ -224,7 +225,7 @@ How to Debug a Node.js app in a Docker Container https://blog.risingstack.com/ho
 
 2. 微信小程序实现商城案例（赋源码)https://juejin.im/post/5b836d056fb9a019f671320f
 
-5.   It Is Official: Water Ice Confirmed On The Earth’s Moon 
+5.  It Is Official: Water Ice Confirmed On The Earth’s Moon 
 https://www.evolving-science.com/space/water-ice-moon-00762  
 
 6. 《Web 推送通知》系列翻译 | 第二篇：推送是怎么工作的?https://juejin.im/post/5b850badf265da43296c5121
@@ -250,42 +251,312 @@ https://www.evolving-science.com/space/water-ice-moon-00762
 
 15. ECMAScript正则表达式6个最新特性 https://blog.fundebug.com/2018/08/30/ecmascript-regular-expression-new-features/
 
+<br/><br /><br />
+## 九月份
 <br /><br />
+9月1日 每日资讯<br />
+1. 2018年的@font-face https://juejin.im/entry/5b8611f0e51d4538a108c11a
 
-<br /><br />
+4. 如何使用webpack构建Ueditor https://juejin.im/post/5b88e7606fb9a01a0058c0bf
 
-<br /><br />
+8. 彻底搞懂word-break、word-wrap、white-space https://juejin.im/post/5b8905456fb9a01a105966b4
 
-<br /><br />
+10. 前端数据校验从建模开始 https://juejin.im/post/5b87c8a5e51d4538e41067a8
 
-<br /><br />
+2. 京晚8点--H5单页面手势滑屏效果实践 https://blog.csdn.net/Wei_Smile/article/details/82120728
 
-<br /><br />
+6. 对象解构与点操作访问究竟谁快 https://juejin.im/post/5b879b4cf265da435a486858
 
-<br /><br />
-
-<br /><br />
-
-<br /><br />
-
-<br /><br />
+10. 揭密React setState http://imweb.io/topic/5b189d04d4c96b9b1b4c4ed6
 
 <br /><br />
+9月3日 每日资讯<br />
+1.浅谈 TypeScript https://zhuanlan.zhihu.com/fed-talk
+
+2.React Fire: Modernizing React DOM https://github.com/facebook/react/issues/13525
+
+3.理解 Node.js Stream 模块 http://zhangxiang958.github.io/2018/09/01/%E7%90%86%E8%A7%A3%20Node.js%20Stream%20%E6%A8%A1%E5%9D%97/
+
+4.如何实现前端录音功能 https://juejin.im/post/5b8bf7e3e51d4538c210c6b0
+
+5.chrome插件定制页面和设置https://zhuanlan.zhihu.com/p/43189092
+
+<br /><br />
+9月4日 每日资讯<br />
+2. AST抽象语法树——最基础的javascript重点知识，99%的人根本不了解 https://segmentfault.com/a/1190000016231512
+
+3. 程序员职业生涯的6个阶段 https://zhuanlan.zhihu.com/p/43597829
+
+4. Three input element properties that I discovered while reading MDN https://www.stefanjudis.com/blog/three-input-element-properties-that-i-discovered-while-reading-mdn/
+
+7. 2018你应该知道的Web性能信息采集指南https://github.com/berwin/Blog/issues/25
+
+<br /><br />
+9月5日 每日资讯<br />
+1. ISOMORPHIC 的升级之路 https://zhuanlan.zhihu.com/p/43227689
+
+2.   Query records for a list of keys in GraphQL http://sandny.com/2018/09/03/query-records-for-a-list-of-keys-in-graphql/
+
+5. 《从零构建前后分离web项目》探究 - 深入聊聊前后分离架构 https://juejin.im/post/5b8cd628f265da433f2a2f0a
+
+7. 记一次Vue全页面SSR深坑之旅 - 微弱的内存/CPU泄漏 https://juejin.im/post/5b8d31d3f265da43594407e2
+
+13. 搞懂 browserslist (基于官方文档翻译）https://juejin.im/post/5b8cff326fb9a019fd1474d6
+
+<br /><br />
+9月6日 每日资讯<br />
+2.  axios 内部设计分析 https://blog.hhking.cn/2018/09/04/http-request-library-with-axios/
+
+4. JavaScript Functions详解（包含ES6箭头函数）https://www.zcfy.cc/article/javascript-functions
+
+8. 记录一次vue2.0（history模式）下微信自定义分享的坑 https://juejin.im/post/5b8e44b3f265da433109ac4f
+
+9. 深入探究ES6之模块系统 https://juejin.im/post/5b88fb92f265da437047f8ac
+
+12. 通过proxies设置常量 https://www.zcfy.cc/article/setting-up-constants-via-proxies
+<br /><br />
+9月7日 每日资讯<br />
+1.   Puck.js: Javascript + Bluetooth === Awesome
+
+5. 《从零构建前后分离的web项目》：前端了解过关了吗？ https://juejin.im/post/5b8e5b33e51d4538ab0461f8
+
+9. 编写更优雅的 JavaScript 代码（长期更新）https://juejin.im/post/5b8fd36fe51d450e6475a92d
+
+10. 携程前端模拟排序动画 https://juejin.im/post/5b8fcaaee51d450e44378a5f
+
+11. 【Node】简单快捷的图片压缩脚本 https://github.com/HuJiaoHJ/blog/issues/11
+
+12. Fluwx:让在Flutter中使用微信SDK成为可能 https://www.jianshu.com/p/cf98729388b8
+
+14. 「译」JS 引擎核心: 原型优化  (原文)https://mathiasbynens.be/notes/prototypes 
+https://juejin.im/post/5b8fe7b26fb9a05d26593811
+
+<br /><br />
+9月10日 每日资讯<br />
+5. TypeScript AST 查看器https://ts-ast-viewer.com/
+
+7. 用浏览器轻松录制音频、视频—— MediaRecorder API https://denzel.netlify.com/js/useful_webapis_mediarecorder.html?_=54356421143
+
+8. 如何保障前端项目的代码质量 https://juejin.im/post/5b911f306fb9a05cdb1013b9
+
+11. webapck4 多页面，多环境配置https://juejin.im/post/5b9116086fb9a05d05307e96
+
+<br /><br />
+9月11日 每日资讯<br />
+5. 面向体验的重构优化 https://juejin.im/post/5b96447bf265da0aa81bdee1
+
+9. 【前端性能】Web 动画帧率（FPS）计算 https://www.cnblogs.com/coco1s/p/8029582.html
+
+10.   Grouping AJAX requests in a pool https://aralroca.com/2018/09/10/grouping-ajax-requests-in-a-pool/
+
+11. 聊聊我对现代前端框架的认知 https://juejin.im/post/5b96170a5188255c68156383
+
+13. canvas像素点获取 —— 拾色器、放大器https://denzel.netlify.com/html/canvas_pixel_pick.html
+<br /><br />
+9月12日 每日资讯<br />
+
+3. webpack性能优化不完全指北https://juejin.im/post/5b8ac03ff265da431c627f8e
+
+4. 「2018前端面试总结」https://github.com/qianbin01/frontend_train
+
+5. 相对现代化的把控前端代码质量 https://soulteary.com/2018/09/06/relatively-modern-control-of-front-end-code-quality.html
+
+10. webview布局适配实践https://juejin.im/post/5b92a0eaf265da0ad13b5cac
+
+<br /><br />
+9月13日 每日资讯<br />
+
+5. 浅谈hybrid技术http://www.cnblogs.com/yexiaochai/p/4921635.html
+
+7. 高效的 GraphQL + Antd https://lutaonan.com/blog/effective-graphql-and-antd/
+
+8.   11 Javascript Data Visualization Libraries for 2018(可视化工具推荐) https://www.aliyun.com/jiaocheng/1072761.html
+https://bashooka.com/coding/10-useful-javascript-data-visualization-libraries/
+
+9. 你试过不用if撸代码吗？https://blog.fundebug.com/2017/11/06/write-javascript-without-if/
+
+3. 使用JS实现JS编译器，并将目标js生成二进制 https://juejin.im/post/5b923c3fe51d450e9704a03a
+
+4. Great usages of Array spread operator in examples https://cloud.tencent.com/developer/section/1191993
+
+5. Iceworks 2.7.0 发布，海量图表供你选择 https://segmentfault.com/a/1190000016223006
+
+7. 记一次前端大厂面试 https://juejin.im/post/5b9770056fb9a05d2f3692ce
+
+9. 基于webpack4构建可预测的持久化缓存方案 https://juejin.im/post/5b977a19f265da0ac4469057
+
+13. 工作七年的切图仔如何面试web前端？https://juejin.im/post/5b984950f265da0afc2be3bf
+
+### /* 4、5、8无链接，整理时已补上 Ale-cc注 */ 
 
 <br /><br />
 
-<br /><br />
+9月14日 每日资讯<br />
+
+1. 基于 WebRTC 和 WebVR 实现 VR 视频通话 http://webrtc.org.cn/20180906-webrtc-javascript-html/
+
+2. 从观察者模式到手写EventEmitter源码 https://juejin.im/post/5b987d92e51d450e51625080
+
+3. 使用ColorfulImg获取图片主题色！https://juejin.im/post/5b97e7a1f265da0ac96286be
+
+6. H5游戏开发：横屏适配 https://zhuanlan.zhihu.com/p/30577906
+
+11. 你对CommonJS规范了解多少？https://juejin.im/post/5b966d66f265da0aa949f3e1
 
 <br /><br />
 
-<br /><br />
+9月15日 每日资讯<br />
+
+4. 从撒狗粮带你了解WoT连接场景 https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247484115&idx=1&sn=d52f8cacb4f35bbbbf5a79e9e90c0bcf&chksm=f96edb7ace19526c42735351f59d0d276f0b92d367bb41dd6a6a3ddaadd1dbb3c04a3eced535&token=925572516&lang=zh_CN#rd
+
+9. 在微信小程序中渲染HTML内容https://juejin.im/post/5b9b2be55188255c9a771e79
+
+10. react-native 0.57 版本更新日志 https://juejin.im/post/5b99deef6fb9a05d2f369818
+
+11. CSS实现水平垂直居中的10种方式（史上最全）https://juejin.im/post/5b9a4477f265da0ad82bf921
+
+12. NodeJS 模块化的简易实现（commonJS）https://juejin.im/post/5b966d1ff265da0ae800f8ca
+
+14. 前端通信：ajax设计方案 - 设计请求池，让前端通信快 https://zhuanlan.zhihu.com/p/44477183
 
 <br /><br />
 
+9月16日 每日资讯<br />
+
+2. 如果不用 Node.js 写业务https://juejin.im/post/5b987f39e51d450e805b2261
+
+3. Security risk for opening new tabs or windows https://github.com/n0ruSh/blogs/issues/12
+
+4. 简易表达式解析器编写 https://juejin.im/post/5b9bb590e51d450e7579cf0d
+
+10. GraphQL 技术浅析https://juejin.im/post/5b9b650df265da0afe62cf4e
+
+<br /><br />
+
+9月17日 每日资讯<br />
+
+1. 如何只用 CSS代码让一台 iPhone/macOS 崩溃重启? 💣https://juejin.im/entry/5b9e5b906fb9a05d290ee5e7
+
+3. 「译」如何使用 NodeJS 构建基于 RPC 的 API 系统https://juejin.im/post/5b9e5d046fb9a05d0d285f85
+
+4. TypeScript 学习资源合集https://juejin.im/entry/5b9e4a135188255c3a2d3695
+
+<br /><br />
+
+9月18日 每日资讯<br />
+
+2. 作为前端你拿什么证明网站体验？https://juejin.im/post/5b9e61b15188255c980bc6fd
+
+7. JS计算精度小记https://juejin.im/post/5b9c7cc6f265da0ab41e473b
+
+9. snippet,让你编码效率翻倍https://juejin.im/post/5b99ed89f265da0af7750612
+
+10.项目初期的最优技术方案https://mp.weixin.qq.com/s/iThCyVxNt1qLWwfhZFkczQ
+
+<br /><br />
+
+9月19日 每日资讯<br />
+1. 树莓派，不玩不知道 https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247484130&idx=1&sn=f7f48205436865529f34b31d9417b2b1&chksm=f96edb4bce19525dd2d16e6b3c8e17ac65b297d0df502212f32eb2fc0dfe47436febb1747f47&token=1478612565&lang=zh_CN#rd
+
+3. 震惊! 滑动验证码竟然能这样破解https://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247483925&idx=1&sn=c756231d3e9a5dae0751b4c79bd57fe3&chksm=f96edbbcce1952aa6b20e32dfc5a0e166a4247b01fddaac9a60399fa08c1a44b1a14c13c0dba&token=299205667&lang=zh_CN#rd
+
+5. Nodejs如何调用Dll模块 https://juejin.im/post/5b9f5661e51d450e462820be
+
+6.   5 Tips to Write Better Conditionals in JavaScript https://scotch.io/tutorials/5-tips-to-write-better-conditionals-in-javascript
+
+7. electron终极奥义 五千字教程丢给你 https://juejin.im/post/5ba06b67f265da0ae343e89c
+
+11. puppeteer+mysql—爬虫新方法！抓取新闻&评论so easy！https://juejin.im/post/5b9f13e1e51d450e4967d3c0
+
+12. 用 canvas 的 getImageData 做点有趣的事 https://juejin.im/post/5ba06596f265da0acc7957e4
+
+<br /><br />
+
+9月20日 每日资讯<br />
+
+1. React Profiler 介绍 https://github.com/xitu/gold-miner/blob/master/TODO1/introducing-the-react-profiler.md
+
+7. 基于Nodejs的Tcp封包和解包https://juejin.im/post/5ba119735188255c4a711682
+
+8.精读《REST，GraphQL，Webhooks & gRPC 如何选型》https://segmentfault.com/a/1190000016331670
+
+14. 如何优雅地链式取值https://juejin.im/post/5ba08483e51d450e99430a7f
+
+15. JS的分号可以省掉吗？https://blog.fundebug.com/2018/09/18/js-semicolon-bug/
+
+<br /><br />
+
+9月21日 每日资讯<br />
+
+2. 利用CSS改变图片颜色的多种方法https://juejin.im/post/5ba21d78f265da0af0337fe3
+
+7.  The web app checklist https://logrocket.com/blog/webapp-checklist/
+
+11. How to Create a Guid/UUID https://code.askmein.com/create-guid-uuid-in-javascript/
 
 
+15.  首届前端艺术家沙龙精彩回顾 https://artist.alibaba.com/events/20180908.html
+
+<br /><br />
+
+9月25日 每日资讯<br />
+
+5. 记录一次打包优化https://juejin.im/post/5ba4f2266fb9a05d28734815
+
+3. 网站性能调优开发工具: Lighthouse, Puppeteer 以及进阶部分https://juejin.im/post/5ba73d1de51d450e551a0d08
+
+5. 前端常用插件、工具类库https://juejin.im/post/5ba7d5dd5188255c6140cc9d
+
+<br /><br />
+
+9月26日 每日资讯<br />
+
+告别庞大 PSD，轻松测量 https://imcuttle.github.io/make-psd-measurable
+
+深入探究immutable.js的实现机制 
+
+1. https://zhuanlan.zhihu.com/p/44571842
+
+2. https://zhuanlan.zhihu.com/p/45106741
 
 
+《前端之路》之 webpack 4.0+ 的应用构建 https://www.cnblogs.com/erbingbing/p/9644898.html
+
+Show EJS: match-game - Multiplayer game developed with preact, socket-io and rxjs  https://github.com/siffogh/match-game-multiplayer/blob/master/README.md
+
+Android 9 适配怎么做？ “QQ音乐”优化实录 https://wetest.qq.com/lab/view/406.html
+
+Koa2 中间件原理解析https://www.pandashen.com/2018/08/20/20180820200342/
+
+<br /><br />
+
+9月27日 每日资讯<br />
+8. 3 Methods to Resolve GraphQL Endpoints https://www.contentful.com/blog/2018/09/25/3-methods-resolve-graphql-endpoints/
+
+12. 22行代码的JS脚本导致英国航空公司38万乘客数据泄露
+http://www.freebuf.com/articles/web/184685.html?utm_medium=hao.caibaojian.com&utm_source=hao.caibaojian.com  
+
+14.漫画告诉你什么是ddos https://mp.weixin.qq.com/s/L5i_wzE8HgpiyrbAlFCC_g    
+
+13.浏览器的event loop https://mp.weixin.qq.com/s/r9hJmsK9oprn5f1CbhAHNQ
+
+<br /><br />
+
+9月28日 每日资讯<br />
+
+The Best Explanation of JavaScript Reactivity https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
+移动互联网十年 https://mp.weixin.qq.com/s/IysgXGBQ8ftz77cHBkQjAw
+深入理解Typescript https://jkchao.github.io/typescript-book-chinese/
+
+<br /><br />
+
+9月29日 每日资讯<br />
+
+5. Nginx与前端开发https://juejin.im/post/5bacbd395188255c8d0fd4b2
+
+14. 地图小区景点边界轮廓实现https://juejin.im/post/5bac9fade51d450e7210c3b3   
+
+阿里node地下铁分享沙龙（深圳站）https://mp.weixin.qq.com/s/QP7FEt2HbqcDblH3vZc0Kw  活动地点：深圳阿里中心
 
 
 
