@@ -62,7 +62,7 @@ https://github.com/anywhichway/scriptswitch
 
 7. 浏览器事件环和Node事件环不得不说的故事！https://juejin.im/post/5b5f365e6fb9a04fa8673f97
 
-10.CSSTHIS: Excellent Alternative to Styled-Components https://github.com/uppercod/cssthis
+10. CSSTHIS: Excellent Alternative to Styled-Components https://github.com/uppercod/cssthis
 
 13. 一点感悟：当走完所有大厂的实习面试后 https://juejin.im/post/5b68f384f265da0fa00a3df0
 
@@ -300,15 +300,15 @@ https://www.evolving-science.com/space/water-ice-moon-00762
 
 <br /><br />
 9月3日 每日资讯<br />
-1.浅谈 TypeScript https://zhuanlan.zhihu.com/fed-talk
+1. 浅谈 TypeScript https://zhuanlan.zhihu.com/fed-talk
 
-2.React Fire: Modernizing React DOM https://github.com/facebook/react/issues/13525
+2. React Fire: Modernizing React DOM https://github.com/facebook/react/issues/13525
 
-3.理解 Node.js Stream 模块 http://zhangxiang958.github.io/2018/09/01/%E7%90%86%E8%A7%A3%20Node.js%20Stream%20%E6%A8%A1%E5%9D%97/
+3. 理解 Node.js Stream 模块 http://zhangxiang958.github.io/2018/09/01/%E7%90%86%E8%A7%A3%20Node.js%20Stream%20%E6%A8%A1%E5%9D%97/
 
-4.如何实现前端录音功能 https://juejin.im/post/5b8bf7e3e51d4538c210c6b0
+4. 如何实现前端录音功能 https://juejin.im/post/5b8bf7e3e51d4538c210c6b0
 
-5.chrome插件定制页面和设置https://zhuanlan.zhihu.com/p/43189092
+5. chrome插件定制页面和设置https://zhuanlan.zhihu.com/p/43189092
 
 <br /><br />
 9月4日 每日资讯<br />
@@ -324,7 +324,7 @@ https://www.evolving-science.com/space/water-ice-moon-00762
 9月5日 每日资讯<br />
 1. ISOMORPHIC 的升级之路 https://zhuanlan.zhihu.com/p/43227689
 
-2.   Query records for a list of keys in GraphQL http://sandny.com/2018/09/03/query-records-for-a-list-of-keys-in-graphql/
+2. Query records for a list of keys in GraphQL http://sandny.com/2018/09/03/query-records-for-a-list-of-keys-in-graphql/
 
 5. 《从零构建前后分离web项目》探究 - 深入聊聊前后分离架构 https://juejin.im/post/5b8cd628f265da433f2a2f0a
 
@@ -378,7 +378,7 @@ https://juejin.im/post/5b8fe7b26fb9a05d26593811
 
 9. 【前端性能】Web 动画帧率（FPS）计算 https://www.cnblogs.com/coco1s/p/8029582.html
 
-10.   Grouping AJAX requests in a pool https://aralroca.com/2018/09/10/grouping-ajax-requests-in-a-pool/
+10. Grouping AJAX requests in a pool https://aralroca.com/2018/09/10/grouping-ajax-requests-in-a-pool/
 
 11. 聊聊我对现代前端框架的认知 https://juejin.im/post/5b96170a5188255c68156383
 
@@ -482,7 +482,7 @@ https://bashooka.com/coding/10-useful-javascript-data-visualization-libraries/
 
 9. snippet,让你编码效率翻倍https://juejin.im/post/5b99ed89f265da0af7750612
 
-10.项目初期的最优技术方案https://mp.weixin.qq.com/s/iThCyVxNt1qLWwfhZFkczQ
+10. 项目初期的最优技术方案https://mp.weixin.qq.com/s/iThCyVxNt1qLWwfhZFkczQ
 
 <br /><br />
 
@@ -509,7 +509,7 @@ https://bashooka.com/coding/10-useful-javascript-data-visualization-libraries/
 
 7. 基于Nodejs的Tcp封包和解包https://juejin.im/post/5ba119735188255c4a711682
 
-8.精读《REST，GraphQL，Webhooks & gRPC 如何选型》https://segmentfault.com/a/1190000016331670
+8. 精读《REST，GraphQL，Webhooks & gRPC 如何选型》https://segmentfault.com/a/1190000016331670
 
 14. 如何优雅地链式取值https://juejin.im/post/5ba08483e51d450e99430a7f
 
@@ -551,13 +551,13 @@ https://bashooka.com/coding/10-useful-javascript-data-visualization-libraries/
 2. https://zhuanlan.zhihu.com/p/45106741
 
 
-《前端之路》之 webpack 4.0+ 的应用构建 https://www.cnblogs.com/erbingbing/p/9644898.html
+3.《前端之路》之 webpack 4.0+ 的应用构建 https://www.cnblogs.com/erbingbing/p/9644898.html
 
-Show EJS: match-game - Multiplayer game developed with preact, socket-io and rxjs  https://github.com/siffogh/match-game-multiplayer/blob/master/README.md
+4. Show EJS: match-game - Multiplayer game developed with preact, socket-io and rxjs  https://github.com/siffogh/match-game-multiplayer/blob/master/README.md
 
-Android 9 适配怎么做？ “QQ音乐”优化实录 https://wetest.qq.com/lab/view/406.html
+5. Android 9 适配怎么做？ “QQ音乐”优化实录 https://wetest.qq.com/lab/view/406.html
 
-Koa2 中间件原理解析https://www.pandashen.com/2018/08/20/20180820200342/
+6. Koa2 中间件原理解析https://www.pandashen.com/2018/08/20/20180820200342/
 
 <br /><br />
 
@@ -576,7 +576,9 @@ http://www.freebuf.com/articles/web/184685.html?utm_medium=hao.caibaojian.com&ut
 9月28日 每日资讯<br />
 
 The Best Explanation of JavaScript Reactivity https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
+
 移动互联网十年 https://mp.weixin.qq.com/s/IysgXGBQ8ftz77cHBkQjAw
+
 深入理解Typescript https://jkchao.github.io/typescript-book-chinese/
 
 <br /><br />
@@ -596,9 +598,9 @@ The Best Explanation of JavaScript Reactivity https://medium.com/vue-mastery/the
 
 3. 大话 JavaScript 动画https://juejin.im/post/5bb64f35f265da0abf7cfc1a
 
-4.你所不知道的css滤镜技巧http://web.jobbole.com/92460/     
+4. 你所不知道的css滤镜技巧http://web.jobbole.com/92460/     
 
-5.使用小程序做交互的技巧 https://mp.weixin.qq.com/s/wukb02PaZfRXzhqHzfGMBQ
+5. 使用小程序做交互的技巧 https://mp.weixin.qq.com/s/wukb02PaZfRXzhqHzfGMBQ
 
 <br /><br />
 10月9日 每日资讯<br />
@@ -607,7 +609,7 @@ The Best Explanation of JavaScript Reactivity https://medium.com/vue-mastery/the
 
 10. 从支付宝tabbar看BEM https://juejin.im/post/5bb4678a5188255c980be9d2
 
-11.地图坐标转换 https://mp.weixin.qq.com/s/IWDSQHYxR41kMYtKfKGinQ
+11. 地图坐标转换 https://mp.weixin.qq.com/s/IWDSQHYxR41kMYtKfKGinQ
 
 <br /><br />
 10月10日 每日资讯<br />
@@ -616,7 +618,7 @@ The Best Explanation of JavaScript Reactivity https://medium.com/vue-mastery/the
 
 8. Unhappy Path Driven Development https://ponyfoo.com/articles/unhappy-path-driven-developmen
 
-9.淘宝秒杀系统是如何设计的 https://mp.weixin.qq.com/s/CRckPkN27FhFExjg3_aclA  
+9. 淘宝秒杀系统是如何设计的 https://mp.weixin.qq.com/s/CRckPkN27FhFExjg3_aclA  
 
 10. Airbnb react性能优化https://mp.weixin.qq.com/s/OMvNKq1P5cDCzzqpmGpOjw
 
@@ -682,9 +684,9 @@ https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-info
 <br /><br />
 10月22日 每日资讯<br />
 
-1.数据劫持or数据代理https://mp.weixin.qq.com/s/SPoxin9LYJ4Bp0goliEaUw
+1. 数据劫持or数据代理https://mp.weixin.qq.com/s/SPoxin9LYJ4Bp0goliEaUw
 
-12.  以面试官的角度来看 React 工作面试 https://juejin.im/post/5bca74cfe51d450e9163351b
+12. 以面试官的角度来看 React 工作面试 https://juejin.im/post/5bca74cfe51d450e9163351b
 
 15. JavaScript原型与原型链https://juejin.im/post/5bc755b15188255c89015f39
 
@@ -702,8 +704,7 @@ https://www.zhangxinxu.com/wordpress/2018/10/a-css-%E9%A2%98%E7%9B%AE/
 
 <br /><br />
 10月24日 每日资讯<br />
-每日资讯1. 你不知道的Node https://houxingyi.github.io/2018/10/20/2018-10-10-you-dont-know-Node/
-
+1. 你不知道的Node https://houxingyi.github.io/2018/10/20/2018-10-10-you-dont-know-Node/
 
 5. Vue 进阶系列之响应式原理及实现https://juejin.im/post/5bce6a26e51d4579e9711f1d
 
@@ -732,6 +733,7 @@ https://www.zhangxinxu.com/wordpress/2018/10/a-css-%E9%A2%98%E7%9B%AE/
 
 <br /><br />
 10月29日 每日资讯<br />
+
 1. 克军：如何成为一位优秀的前端工程师？
 https://mp.weixin.qq.com/s/FEg9eZqDcHFo-tUmLr2xxg
 
@@ -821,7 +823,7 @@ https://juejin.im/post/5bdec712e51d4505525b0fba
 <br /><br />
 11月7日 每日资讯<br />
 
-4.  最详细的 CSS 字符转义处理 https://juejin.im/post/5be01e166fb9a049e4122692
+4. 最详细的 CSS 字符转义处理 https://juejin.im/post/5be01e166fb9a049e4122692
 
 7. 如何修改placeholder样式 http://spaceblog.cn/post/placeholder
 
